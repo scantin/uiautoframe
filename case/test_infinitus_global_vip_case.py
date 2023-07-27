@@ -17,7 +17,7 @@ import os
 #     # 参数{语言，环境}
 #     {"lan": ConfigReader().read("project")["lan"], "env": ConfigReader().read("project")["env"]}
 # )
-# 测试用例
+# 测试用例1
 class Test_Main_Case_Global_VIP(unittest.TestCase, PageCommon):
     # 出错需要截图时此方法自动被调用
     def save_img(self, img_name):
