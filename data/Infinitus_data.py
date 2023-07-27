@@ -1,0 +1,17 @@
+class InfinitusData:
+    # 首页网址
+    url_tw = "https://staging.infinitus-shop.com/tw_zh_tw"
+    url_global = "https://eshop-uat.lkkhpgdi.com/global_zh_tw"
+    phone = "0966666666"
+    email = "scantin@163.com"
+    password = "Scantin1025"
+    membership_card = "974220008"
+    password_card = "88888888L"
+    search_product = ""
+    ctbc_cardnum = "4242424242424242"
+    ctbc_cvv = "123"
+    ctbc_security_code = "1111"
+    stripe_cardnum = "4242424242424242"
+    stripe_date = "3/23"
+    stripe_cvv = "123"
+    stripe_name = "111"
